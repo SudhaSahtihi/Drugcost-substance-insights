@@ -7,24 +7,33 @@ This project investigates the landscape of DEA-scheduled drugs using real-world 
 # Dataset:
 
 Source: Pharma_data.csv
+
 Contents: FDA metadata on drug names, strength, route, marketing dates, pharmacological class, and DEA schedule (CII–CV)
 
 # Key KPIs & Insights
 
 Percentage with Multiple Classifications - 93.0%	- Most DEA-controlled drugs act via multiple pharmacological pathways, increasing interaction and monitoring complexity
+
 Marketed over 10 Years - 83.3%	- The majority of high-risk drugs have remained accessible for over a decade
+
 Avg. Strength -	CIII (66.9), CV (62.3), CII (44.6), CIV (32.7)	- Potency is not limited to the most tightly regulated schedules
+
 Total DEA-Scheduled Drugs	- 1,798	- Scope of analysis included all drugs marked CII–CV in the dataset
 
 # Tools & Techniques Used:
 
 Python (Pandas): Data cleaning, feature engineering, regex parsing
+
 Tableau: KPI design, visual storytelling, interactivity
+
 Excel: Final cleaned dataset for Tableau upload
 
 # Business Impact:
 
 This project simulates how analysts in pharma, healthcare compliance, or government agencies can:
+
 Identify long-standing risk compounds in circulation
+
 Flag high-potency drugs outside of Schedule II
+
 Monitor pharmacological complexity in the supply chain
