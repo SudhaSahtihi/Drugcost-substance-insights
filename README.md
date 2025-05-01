@@ -1,7 +1,7 @@
 # Drugcost-substance-insights
 Analysis of FDA-regulated pharmaceutical metadata to uncover risk patterns in controlled substances.
 
-Visualizations at : ![Dashboard]https://public.tableau.com/app/profile/sudha.sahithi.murikipudi/viz/Drugcostsubstanceabuseriskinsights/Dashboard1
+Visualizations at : https://public.tableau.com/app/profile/sudha.sahithi.murikipudi/viz/Drugcostsubstanceabuseriskinsights/Dashboard1
 
 # Project Overview:
 This project investigates the landscape of DEA-scheduled drugs using real-world pharmaceutical data. By analyzing strength, pharmacological classifications, and marketing longevity, it offers insights into the accessibility and complexity of high-risk substances.
